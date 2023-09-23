@@ -10,7 +10,7 @@ pip install okaya-ai
 
 > [!NOTE]
 > Python version should be more then >= 3.7.
-
+'''
 
 ### Getting Started
 To get started with Okaya.ai, follow these steps:
